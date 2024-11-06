@@ -1,13 +1,15 @@
-# Aulas-Prof-Paulo-Senacsp06
+# Profº Paulo Boletim
 
 <!doctype html>
 <html lang="pt-br">
 <head>
 <meta charset="utf-8">
 <title>Boletim Mensal - Meu amigo cão</title>
+<script src="interacao/html5shiv.min.js"></script>    
 </head>
-<body>
+<body id="boletim -f">    
 <h1>Meu amigo cão - Petshop</h1>
+<main>    
 <h1>Boletim mensal</h1>
 <h2>Assine já!</h2>
 <p>Fazendo sua assinatura<br> 
@@ -28,7 +30,11 @@ você receberá mensalmente informações sobre nossos produtos, serviços, even
 
 </form>
 
-
+</main>
+<footer>
+    <p>Atendimento: <a href="mailto:atendimento@meuamigocao.com.br">atendimento@meuamigocao.com.br</a>
+        - (0XX) 9999-9999 / (0XX) 8888-8888</p>
+</footer>
 
 </body>
 </html>
